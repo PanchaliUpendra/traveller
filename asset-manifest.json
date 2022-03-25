@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PanchaliUpendra/traveller/static/css/main.6fe2a5e8.css",
+    "main.js": "/PanchaliUpendra/traveller/static/js/main.857c1dc2.js",
+    "static/js/787.5578ed90.chunk.js": "/PanchaliUpendra/traveller/static/js/787.5578ed90.chunk.js",
+    "static/media/photo-grid.png": "/PanchaliUpendra/traveller/static/media/photo-grid.d91abc66db039d9029b3.png",
+    "static/media/star.png": "/PanchaliUpendra/traveller/static/media/star.1064aab1de9d7a2b31ba.png",
+    "static/media/pretty.png": "/PanchaliUpendra/traveller/static/media/pretty.d43be0b524bde7953c94.png",
+    "static/media/Usa.png": "/PanchaliUpendra/traveller/static/media/Usa.02f6770141d90ef1fb89.png",
+    "static/media/cycle.png": "/PanchaliUpendra/traveller/static/media/cycle.5933afadc6925628d65a.png",
+    "static/media/airbnb-logo2.png": "/PanchaliUpendra/traveller/static/media/airbnb-logo2.8a8ac859471e2a9ed077.png",
+    "index.html": "/PanchaliUpendra/traveller/index.html",
+    "main.6fe2a5e8.css.map": "/PanchaliUpendra/traveller/static/css/main.6fe2a5e8.css.map",
+    "main.857c1dc2.js.map": "/PanchaliUpendra/traveller/static/js/main.857c1dc2.js.map",
+    "787.5578ed90.chunk.js.map": "/PanchaliUpendra/traveller/static/js/787.5578ed90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe2a5e8.css",
+    "static/js/main.857c1dc2.js"
+  ]
+}
