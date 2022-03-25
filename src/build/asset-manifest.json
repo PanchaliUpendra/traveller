@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PanchaliUpendra/travelling.git/static/css/main.6fe2a5e8.css",
+    "main.js": "/PanchaliUpendra/travelling.git/static/js/main.fb3f4e05.js",
+    "static/js/787.e8223466.chunk.js": "/PanchaliUpendra/travelling.git/static/js/787.e8223466.chunk.js",
+    "static/media/photo-grid.png": "/PanchaliUpendra/travelling.git/static/media/photo-grid.d91abc66db039d9029b3.png",
+    "static/media/star.png": "/PanchaliUpendra/travelling.git/static/media/star.1064aab1de9d7a2b31ba.png",
+    "static/media/pretty.png": "/PanchaliUpendra/travelling.git/static/media/pretty.d43be0b524bde7953c94.png",
+    "static/media/Usa.png": "/PanchaliUpendra/travelling.git/static/media/Usa.02f6770141d90ef1fb89.png",
+    "static/media/cycle.png": "/PanchaliUpendra/travelling.git/static/media/cycle.5933afadc6925628d65a.png",
+    "static/media/airbnb-logo2.png": "/PanchaliUpendra/travelling.git/static/media/airbnb-logo2.8a8ac859471e2a9ed077.png",
+    "index.html": "/PanchaliUpendra/travelling.git/index.html",
+    "main.6fe2a5e8.css.map": "/PanchaliUpendra/travelling.git/static/css/main.6fe2a5e8.css.map",
+    "main.fb3f4e05.js.map": "/PanchaliUpendra/travelling.git/static/js/main.fb3f4e05.js.map",
+    "787.e8223466.chunk.js.map": "/PanchaliUpendra/travelling.git/static/js/787.e8223466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe2a5e8.css",
+    "static/js/main.fb3f4e05.js"
+  ]
+}
